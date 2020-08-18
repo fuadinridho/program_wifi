@@ -66,8 +66,7 @@ double hourlyRain = 0.0;                  // rain accumulated for one hour
 double dailyRain_till_LastHour = 0.0;     // rain accumulated for the day till the last hour          
 
 //AT+CIPSTART="TCP","amicagama.id",80
-String ssid="Wifihp";
-String password="thetering1234";
+
 String cmdconnect="";
 String header1,header2,header3,header4;
 String postdata="";
